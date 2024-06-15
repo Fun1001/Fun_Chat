@@ -1,0 +1,30 @@
+﻿  MysqlDao.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+  正在生成代码
+  2265 of 6106 functions (37.1%) were compiled, the rest were copied from previous compilation.
+    1320 functions were new in current compilation
+    786 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+hiredis.lib(hiredis.obj) : warning LNK4099: 未找到 PDB“hiredis.pdb”(使用“hiredis.lib(hiredis.obj)”或在“D:\Desktop\Fun_Chat\server\ChatServer\x64\Release\hiredis.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+hiredis.lib(net.obj) : warning LNK4099: 未找到 PDB“”(使用“hiredis.lib(net.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+hiredis.lib(sds.obj) : warning LNK4099: 未找到 PDB“hiredis.pdb”(使用“hiredis.lib(sds.obj)”或在“D:\Desktop\Fun_Chat\server\ChatServer\x64\Release\hiredis.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Win32_Interop.lib(Win32_Error.obj) : warning LNK4099: 未找到 PDB“Win32_Interop.pdb”(使用“Win32_Interop.lib(Win32_Error.obj)”或在“D:\Desktop\Fun_Chat\server\ChatServer\x64\Release\Win32_Interop.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Win32_Interop.lib(Win32_FDAPI.obj) : warning LNK4099: 未找到 PDB“Win32_Interop.pdb”(使用“Win32_Interop.lib(Win32_FDAPI.obj)”或在“D:\Desktop\Fun_Chat\server\ChatServer\x64\Release\Win32_Interop.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Win32_Interop.lib(Win32_fdapi_crt.obj) : warning LNK4099: 未找到 PDB“Win32_Interop.pdb”(使用“Win32_Interop.lib(Win32_fdapi_crt.obj)”或在“D:\Desktop\Fun_Chat\server\ChatServer\x64\Release\Win32_Interop.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Win32_Interop.lib(Win32_variadicFunctor.obj) : warning LNK4099: 未找到 PDB“Win32_Interop.pdb”(使用“Win32_Interop.lib(Win32_variadicFunctor.obj)”或在“D:\Desktop\Fun_Chat\server\ChatServer\x64\Release\Win32_Interop.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Win32_Interop.lib(win32_rfdmap.obj) : warning LNK4099: 未找到 PDB“Win32_Interop.pdb”(使用“Win32_Interop.lib(win32_rfdmap.obj)”或在“D:\Desktop\Fun_Chat\server\ChatServer\x64\Release\Win32_Interop.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Win32_Interop.lib(Win32_ANSI.obj) : warning LNK4099: 未找到 PDB“Win32_Interop.pdb”(使用“Win32_Interop.lib(Win32_ANSI.obj)”或在“D:\Desktop\Fun_Chat\server\ChatServer\x64\Release\Win32_Interop.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Win32_Interop.lib(Win32_Common.obj) : warning LNK4099: 未找到 PDB“Win32_Interop.pdb”(使用“Win32_Interop.lib(Win32_Common.obj)”或在“D:\Desktop\Fun_Chat\server\ChatServer\x64\Release\Win32_Interop.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Win32_Interop.lib(Win32_RedisLog.obj) : warning LNK4099: 未找到 PDB“Win32_Interop.pdb”(使用“Win32_Interop.lib(Win32_RedisLog.obj)”或在“D:\Desktop\Fun_Chat\server\ChatServer\x64\Release\Win32_Interop.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Win32_Interop.lib(Win32_Time.obj) : warning LNK4099: 未找到 PDB“Win32_Interop.pdb”(使用“Win32_Interop.lib(Win32_Time.obj)”或在“D:\Desktop\Fun_Chat\server\ChatServer\x64\Release\Win32_Interop.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Win32_Interop.lib(Win32_EventLog.obj) : warning LNK4099: 未找到 PDB“Win32_Interop.pdb”(使用“Win32_Interop.lib(Win32_EventLog.obj)”或在“D:\Desktop\Fun_Chat\server\ChatServer\x64\Release\Win32_Interop.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  ChatServer.vcxproj -> D:\Desktop\Fun_Chat\server\ChatServer\x64\Release\ChatServer.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
+  D:\Desktop\Fun_Chat\server\ChatServer\ChatServer\config.ini
+  复制了 1 个文件
+  复制了 0 个文件
+  找不到文件 - *.dll
